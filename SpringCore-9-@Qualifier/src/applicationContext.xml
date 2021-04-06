@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+     http://www.springframework.org/schema/context
+     http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+
+ <context:annotation-config/>
+ <!-- Definition for profile bean -->
+ <bean id="profile" class="com.mycompany.springcore.qualifier.Profile">
+ </bean>
+ <!-- Definition for student1 bean -->
+ <bean id="student1" class="com.mycompany.springcore.qualifier.Student">
+<property name="name" value="Nesha"/>
+<property name="age" value="21"/>
+</bean>
+<!-- Definition for student2 bean -->
+<bean id="student2" class="com.mycompany.springcore.qualifier.Student">
+<property name="name" value="Kumar"/>
+<property name="age" value="25"/>
+
+</bean>
+ </beans>
