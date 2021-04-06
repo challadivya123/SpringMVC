@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="Employee" table="Employee">
+<id name="id" column="id" type="int"/>
+<property name="name" column="name"/>
+<property name="age" column="age"/>
+<property name = "dept" column = "dept"/>
+</class>
+</hibernate-mapping>
