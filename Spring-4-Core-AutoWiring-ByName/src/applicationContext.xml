@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+<bean id="spellChecker" class="com.mycompany.springcore.autowiring.xml.byname.SpellChecker">
+<property name="msg" value="I am Spell Checker-I am autowired to TextEditor bean"/>
+</bean>
+
+<bean id="textEditor" class="com.mycompany.springcore.autowiring.xml.byname.TextEditor" autowire="byName">
+<property name="name" value="Generic Text Editor"/>
+</bean>
+</beans>
