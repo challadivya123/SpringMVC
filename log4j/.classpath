@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/apache java.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/apachejava2.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-iostreams-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-iostreams-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-iostreams-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-flume-ng-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-flume-ng-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-flume-ng-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-docker-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-couchdb-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-couchdb-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-core-2.13.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-core-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-core-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-cassandra-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-cassandra-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-cassandra-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-appserver-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-appserver-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-appserver-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-api-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-api-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-1.2-api-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-1.2-api-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-1.2-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-docker-2.13.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-docker-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-couchdb-2.13.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ch.Divya/Downloads/log4j-core-2.13.3 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
